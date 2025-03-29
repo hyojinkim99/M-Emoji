@@ -20,7 +20,7 @@ The two Youtube series selected are as follows:
 ## Folder Structure
 
 ```
-M-Emoji-Dataset/
+M-Emoji Dataset/
 ├── Emoji chat data.zip/
 │   ├── chat_0.csv
 │   ├── chat_1.csv
