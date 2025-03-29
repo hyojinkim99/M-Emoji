@@ -1,6 +1,6 @@
 # M-Emoji Dataset
 
-M-Emoji is the first dataset exclusively composed of real-time emoji chat data❤️🔥🥰 from 🎶music-listening🎧 experiences. 
+M-Emoji is the first dataset exclusively composed of real-time emoji chat data from music-listening experiences. 
 
 It comprises 15,795 real-time chat messages containing emojis, collected from 192 music performances by 84 different artists on YouTube.
 
