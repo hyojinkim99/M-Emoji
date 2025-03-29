@@ -21,7 +21,7 @@ The two Youtube series selected are as follows:
 
 ```
 M-Emoji-Dataset/
-├── Emoji chat data/
+├── Emoji chat data.zip/
 │   ├── chat_0.csv
 │   ├── chat_1.csv
 │   ├── ...
